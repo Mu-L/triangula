@@ -24,6 +24,7 @@ The GUI uses [Wails](https://wails.app/) for its frontend.
 <img src="/assets/triangula.gif" width="500">
 
 If the app isn't running on Linux, go to the Permissions tab in the executable's properties and tick `Allow executing file as program`. 
+On Windows, you may need to deselect `Compatibility mode` in the app's properties. 
 
 ### CLI
 Install the [CLI](https://github.com/RH12503/Triangula-CLI) by running: 
